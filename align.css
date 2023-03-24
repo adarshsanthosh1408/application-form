@@ -1,0 +1,22 @@
+.align{
+    color: white;
+    margin-top: 50px;
+}
+.form{
+    
+    border-style: solid;
+    border-width: medium;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.button{
+    text-align: center;
+    
+}
+label{
+    display: flexbox;
+    width: 30%;
+
+}
